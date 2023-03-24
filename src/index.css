@@ -1,0 +1,58 @@
+.content {
+  border: 1px solid rgb(29, 49, 226);
+  display: inline-flex;
+  text-align: center;
+  width: 100%;}
+
+.column-container {
+  border: 14px solid grey;
+  height: 80vh;
+  position: relative;
+  width: 40%;}
+
+.center-bar {
+  background-color: rgb(16, 196, 202);
+  width: 4%;
+  height: 100%;
+  border: 1px solid rgb(120, 79, 233);
+  position: absolute;
+  left: 48%;
+  z-index: -1;
+
+}
+
+.tile {
+  background-color: rgb(20, 96, 211);
+  border: 1px solid black;
+  border-radius: 15px;
+  height: 30px;
+  margin: auto;
+
+}
+
+.win-message {
+
+  background-color: rgb(40, 201, 134);
+  border-radius: 10px;
+  color: rgb(3, 62, 80);
+  font-size: 40px;
+  font-weight: 700;
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  top: 40%;
+  width: 40%;
+  z-index: 20;
+
+
+}
+
+.win-subtitle {
+  font-size: 24px;
+  font-weight: 500;
+  margin: 10px 0;
+}
+
+.win-number {
+  color: rgb(172, 30, 60);
+}
