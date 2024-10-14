@@ -24,7 +24,6 @@ This game allows users to drag and drop tiles across three columns. Each tile ha
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/hbasrik/Puzzle-Game/
-   cd <project-directory>
 
 2. **Install Dependencies**:
    ```bash
