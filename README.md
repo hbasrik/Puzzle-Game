@@ -29,3 +29,13 @@ This game allows users to drag and drop tiles across three columns. Each tile ha
    ```bash
    npm install
    npm start
+3. **If you have problem while running the app, you can do these;**:
+   ```bash
+   Remove-Item -Recurse -Force node_modules
+   Remove-Item -Force package-lock.json
+   npm start
+
+
+### Demo
+https://github.com/user-attachments/assets/88edeef4-751b-4759-869e-f8225b4fc3ff
+
